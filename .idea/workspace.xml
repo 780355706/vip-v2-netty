@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="comet:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="rpc-client" />
+      <module name="bio" />
+      <module name="rpc-prepare" />
+      <module name="nio" />
+      <module name="vip-v2-netty" />
+      <module name="rpc-server" />
+      <module name="netty-basic" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36b99098-fdd7-41b1-84af-4b471d8bf136" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>web</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Outside_The_System\computer\apache-maven-3.5.2\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Outside_The_System/computer/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="C:\Outside_The_System\computer\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28NpWD42IrrY77ImrhQVciKw9xE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.enjoyedu.sse" />
+      <recent name="cn.enjoyedu.nettybasic.idlestate" />
+      <recent name="cn.enjoyedu.nio.nio" />
+      <recent name="cn.enjoyedu.rpc.server" />
+      <recent name="cn.enjoyedu.rpc.server.rpc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\XiangXue\vipLesson\NIOV2\code\vip-v2-netty\netty-rpc-client\src\main\java\cn\enjoyedu\rpc" />
+      <recent name="D:\XiangXue\vipLesson\NIOV2\code\vip-v2-netty" />
+      <recent name="D:\XiangXue\vipLesson\NIOV2\code\vip-v2-netty\ws\src\main\resources" />
+      <recent name="D:\XiangXue\vipLesson\NIOV2\code\vip-v2-netty\ws\src\main\java\cn\enjoyedu\ws" />
+      <recent name="D:\XiangXue\vipLesson\NIOV2\code\vip-v2-netty\netty-adv\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LineBaseEchoServer">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="LineBaseEchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.nettybasic.splicing.linebase.LineBaseEchoServer" />
+      <module name="netty-basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.nettybasic.splicing.linebase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NioClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.nio.nio.NioClient" />
+      <module name="nio" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.nio.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NioServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.nio.nio.NioServer" />
+      <module name="nio" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.nio.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterCenter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.rpc.RegisterCenter" />
+      <module name="rpc-reg" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.rpc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsRpcServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.rpc.server.SmsRpcServer" />
+      <module name="rpc-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.rpc.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StompApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="stomp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.enjoyedu.stomp.StompApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ws" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.enjoyedu.ws.WsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="comet" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.55(2)" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/comet/index" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="comet:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/comet" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_vip-v2-netty" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54368" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="comet:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SmsRpcServer" />
+      <item itemvalue="Application.RegisterCenter" />
+      <item itemvalue="Application.NioServer" />
+      <item itemvalue="Application.NioClient" />
+      <item itemvalue="Application.LineBaseEchoServer" />
+      <item itemvalue="Spring Boot.WsApplication" />
+      <item itemvalue="Spring Boot.StompApplication" />
+      <item itemvalue="Tomcat Server.comet" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LineBaseEchoServer" />
+        <item itemvalue="Application.NioClient" />
+        <item itemvalue="Application.NioServer" />
+        <item itemvalue="Application.RegisterCenter" />
+        <item itemvalue="Application.SmsRpcServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36b99098-fdd7-41b1-84af-4b471d8bf136" name="Default" comment="" />
+      <created>1560693820155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560693820155</updated>
+      <workItem from="1560693823054" duration="379000" />
+      <workItem from="1560694303774" duration="2042000" />
+      <workItem from="1561536977040" duration="21438000" />
+      <workItem from="1561883021533" duration="9483000" />
+      <workItem from="1562033058401" duration="1432000" />
+      <workItem from="1562047172110" duration="20191000" />
+      <workItem from="1562206194288" duration="3797000" />
+      <workItem from="1562219988129" duration="18881000" />
+      <workItem from="1562319576205" duration="636000" />
+      <workItem from="1562335173780" duration="50000" />
+      <workItem from="1562335235634" duration="1207000" />
+      <workItem from="1562466854266" duration="819000" />
+      <workItem from="1562468636508" duration="2084000" />
+      <workItem from="1562483842588" duration="17242000" />
+      <workItem from="1562566982913" duration="36000" />
+      <workItem from="1562567046917" duration="5014000" />
+      <workItem from="1562637210957" duration="16975000" />
+      <workItem from="1562811254481" duration="3251000" />
+      <workItem from="1562824137200" duration="18072000" />
+      <workItem from="1562911184562" duration="9718000" />
+      <workItem from="1563096595829" duration="12468000" />
+      <workItem from="1563154706796" duration="654000" />
+      <workItem from="1563169332851" duration="14000" />
+      <workItem from="1563244670361" duration="2931000" />
+      <workItem from="1563258184027" duration="15494000" />
+      <workItem from="1651066930091" duration="170000" />
+      <workItem from="1651067118421" duration="3285000" />
+      <workItem from="1651132476743" duration="9000" />
+      <workItem from="1651373986477" duration="2767000" />
+      <workItem from="1651395095250" duration="9000" />
+      <workItem from="1653139585192" duration="1505000" />
+      <workItem from="1653204540811" duration="64000" />
+      <workItem from="1653270499302" duration="6460000" />
+      <workItem from="1653308453774" duration="3332000" />
+      <workItem from="1653355087429" duration="21000" />
+      <workItem from="1653396320631" duration="6016000" />
+      <workItem from="1653450752461" duration="12000" />
+      <workItem from="1653485752545" duration="865000" />
+      <workItem from="1653486647351" duration="4356000" />
+      <workItem from="1653537213206" duration="1244000" />
+      <workItem from="1653546742868" duration="13000" />
+      <workItem from="1653548756653" duration="10074000" />
+      <workItem from="1653617655666" duration="19000" />
+      <workItem from="1653619324684" duration="4057000" />
+      <workItem from="1653739910712" duration="1206000" />
+      <workItem from="1653826098632" duration="3246000" />
+      <workItem from="1654001452255" duration="1270000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FixedLengthFrameDecoderTest_testFramesDecoded - 2019.07.09 at 15h 59m 11s.xml">
+      <configuration name="FixedLengthFrameDecoderTest.testFramesDecoded" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AbsIntegerEncoderTest_testEncoded - 2019.07.09 at 16h 00m 26s.xml">
+      <configuration name="AbsIntegerEncoderTest.testEncoded" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FixedLengthFrameDecoderTest_testFramesDecoded - 2019.07.09 at 16h 00m 58s.xml">
+      <configuration name="FixedLengthFrameDecoderTest.testFramesDecoded" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameChunkDecoderTest_testFramesDecoded - 2019.07.09 at 16h 01m 34s.xml">
+      <configuration name="FrameChunkDecoderTest.testFramesDecoded" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AbsIntegerEncoderTest_testEncoded - 2019.07.14 at 20h 26m 20s.xml">
+      <configuration name="AbsIntegerEncoderTest.testEncoded" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FixedLengthFrameDecoderTest_testFramesDecoded - 2019.07.14 at 20h 30m 45s.xml">
+      <configuration name="FixedLengthFrameDecoderTest.testFramesDecoded" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FixedLengthFrameDecoderTest_testFramesDecoded - 2019.07.14 at 20h 31m 46s.xml">
+      <configuration name="FixedLengthFrameDecoderTest.testFramesDecoded" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="683" y="222" key="FileChooserDialogImpl" timestamp="1651067262307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="222" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1651067262307" />
+    <state width="1877" height="333" key="GridCell.Tab.0.bottom" timestamp="1653837339463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1653837339463" />
+    <state width="1877" height="333" key="GridCell.Tab.0.center" timestamp="1653837339463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="333" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1653837339463" />
+    <state width="1877" height="333" key="GridCell.Tab.0.left" timestamp="1653837339463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="333" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1653837339463" />
+    <state width="1877" height="333" key="GridCell.Tab.0.right" timestamp="1653837339463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="333" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1653837339463" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1653485840687">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653485840687" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1653277200746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653277200746" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1653834276572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653834276572" />
+  </component>
+</project>

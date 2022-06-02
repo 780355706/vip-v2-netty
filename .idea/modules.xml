@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bio/bio.iml" filepath="$PROJECT_DIR$/bio/bio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nio/nio.iml" filepath="$PROJECT_DIR$/nio/nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-client/rpc-client.iml" filepath="$PROJECT_DIR$/rpc-client/rpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-prepare/rpc-prepare.iml" filepath="$PROJECT_DIR$/rpc-prepare/rpc-prepare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-reg/rpc-reg.iml" filepath="$PROJECT_DIR$/rpc-reg/rpc-reg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-server/rpc-server.iml" filepath="$PROJECT_DIR$/rpc-server/rpc-server.iml" />
+    </modules>
+  </component>
+</project>
